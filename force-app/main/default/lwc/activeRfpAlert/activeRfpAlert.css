@@ -1,0 +1,9 @@
+.slds-notify {
+    min-height: 120px; /* Adjust the height of the banner */
+    padding: 1rem 2rem;
+}
+
+h2 {
+    font-size: 2.5rem; /* Increase the font size of the message text */
+    font-weight: bold;
+}
